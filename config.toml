@@ -1,4 +1,8 @@
 baseURL = "https://comisusien.github.io/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "diary"
+languageCode = "zh-CN"
+title = "一个民布的博客"
+theme = "maupassant"
+[markup]
+  [markup.highlight]
+    lineNos = true
+    style = "github"
